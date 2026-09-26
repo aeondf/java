@@ -1,6 +1,6 @@
 public class Main {
     public static void main(String[] args) {
-        Car car1 = new Car();
+        Car car1 = new Car("Kia Rio", "А123ВС777", "Чёрный", 2019);
         Car car2 = new Car("Kia Rio", "А123ВС777", "Чёрный", 2019);
         Car car3 = new Car("Lada Vesta", 2021);
 
